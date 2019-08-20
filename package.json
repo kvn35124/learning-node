@@ -1,0 +1,15 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Auer",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
